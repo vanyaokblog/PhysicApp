@@ -1,0 +1,15 @@
+﻿<Window x:Class="PhysicApp.TopicWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhysicApp"
+        mc:Ignorable="d"
+           Title="Физика" Height="460" Width="790" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="TopicNameLabel" FontSize="18" FontWeight="Bold" Margin="0 5" FontFamily="Comic Sans MS" Foreground="#FF0146A4" />
+            <TextBlock x:Name="TopicTextLabel" TextWrapping="Wrap" Margin="0 0" FontFamily="Comic Sans MS"/>
+        </StackPanel>
+    </Grid>
+</Window>

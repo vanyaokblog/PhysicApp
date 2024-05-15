@@ -1,0 +1,25 @@
+﻿<Window x:Class="PhysicApp.TopicListWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhysicApp"
+        mc:Ignorable="d"
+        Title="Все темы" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top" Width="800" Height="45" Foreground="White" Background="#FF0146A4" />
+        <TextBlock HorizontalAlignment="Left" Margin="37,-5,0,0" TextWrapping="Wrap" Text="Физика" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="36" Foreground="White"/>
+        <ListView Name="TopicListView" ItemsSource="{Binding}" SelectionChanged="TopicListView_SelectionChanged" Margin="0,45,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Темы для чтения:" DisplayMemberBinding="{Binding NameTopic}" Width="280"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnBack" HorizontalAlignment="Left" Margin="630,6,0,0" VerticalAlignment="Top" Height="34" Width="134" UseLayoutRounding="False"  Background="White" Foreground="#FF0146A4" BorderBrush="#FF0146A4" Click="Back_Click">
+            <Button.Content>
+                <TextBlock Text="На главную страницу" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

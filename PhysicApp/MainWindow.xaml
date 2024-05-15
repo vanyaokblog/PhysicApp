@@ -1,0 +1,56 @@
+﻿<Window x:Class="PhysicApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhysicApp"
+        mc:Ignorable="d"
+        Title="Physic" Height="370" Width="720" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid>
+
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top" Width="800" Height="45" Foreground="White" Background="#FF0146A4" />
+        <TextBlock HorizontalAlignment="Left" Margin="37,-5,0,0" TextWrapping="Wrap" Text="Физика" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="36" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,63,0,0" TextWrapping="Wrap" Text="Учебные материалы по темам:" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="22"/>
+
+        <Button x:Name="btnThermalMotion" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" Height="71" Width="200" UseLayoutRounding="False"  Background="#FF0146A4" Foreground="White" FontSize="18" Click="ShowTopic" Tag="1">
+            <Button.Content>
+                <TextBlock Text="Тепловое движение. Температура" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="btnInternalEnergy" HorizontalAlignment="Left" Margin="233,105,0,0" VerticalAlignment="Top" Height="71" Width="200" UseLayoutRounding="False"  Background="#FF0146A4" Foreground="White" FontSize="18" Tag="2" Click="ShowTopic">
+            <Button.Content>
+                <TextBlock Text="“Внутренняя энергия”" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="btnChangeInternalEnergyMethods" HorizontalAlignment="Left" Margin="456,105,0,0" VerticalAlignment="Top" Height="71" Width="200" UseLayoutRounding="False"  Background="#FF0146A4" Foreground="White" FontSize="18" Tag="3" Click="ShowTopic">
+            <Button.Content>
+                <TextBlock Text="“Способы изменения внутренней энергии”" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+        <Button x:Name="btnAllTopics" Content="̲Е̲щ̲ё̲" HorizontalAlignment="Left" Margin="666,160,0,0" VerticalAlignment="Top" BorderBrush="White" Background="White" Foreground="#FF8C8B8B" FontFamily="Cascadia Code" FontSize="15" Click="ShowAllTopics"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,200,0,0" TextWrapping="Wrap" Text="Калькуляторы:" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="22"/>
+
+        <Button x:Name="btnCurrentUnitsToAmperes" HorizontalAlignment="Left" Margin="10,245,0,0" VerticalAlignment="Top" Height="51" Width="345" UseLayoutRounding="False"  Background="#FF0146A4" Foreground="White" FontSize="18" Click="CurrentUnitsToAmperes_Click">
+            <Button.Content>
+                <TextBlock Text="Перевод единиц силы тока в амперы" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="btnOhmsLaw" HorizontalAlignment="Left" Margin="369,245,0,0" VerticalAlignment="Top" Height="51" Width="239" UseLayoutRounding="False"  Background="#FF0146A4" Foreground="White" FontSize="18" Click="OhmsLaw_Click">
+            <Button.Content>
+                <TextBlock Text="По закону Ома" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="btnAddCustomTopic" HorizontalAlignment="Left" Margin="570,8,0,0" VerticalAlignment="Top" Height="29" Width="126" UseLayoutRounding="False"  Background="White" Foreground="#FF0146A4" BorderBrush="#FF0146A4" Click="AddCustomTopic_Click">
+            <Button.Content>
+                <TextBlock Text="Добавить свою тему" FontFamily="Comic Sans MS" TextWrapping="Wrap" TextAlignment="Center"/>
+            </Button.Content>
+        </Button>
+
+    </Grid>
+
+</Window>
