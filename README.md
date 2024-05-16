@@ -24,21 +24,21 @@
 # Скриншоты приложения:
 
 ![Главная страница](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png)
-      Главная страница
+</br>      Главная страница
 </br> </br> </br>
 
 ![Просмотр темы, выбранной из списка](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png)
- Просмотр темы, выбранной из списка
+</br> Просмотр темы, выбранной из списка
 </br> </br> </br>
 
 ![Добавление данных](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/AddWin.png)
- Добавление данных
+</br> Добавление данных
 </br> </br> </br>
 
 ![Калькулятор по закону Ома](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/OhmsWin.png)
- Калькулятор по закону Ома
+</br> Калькулятор по закону Ома
 </br> </br> </br>
 
 ![Перевод единиц силы тока](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png)
- Перевод единиц силы тока
+</br> Перевод единиц силы тока
 </br> </br> </br>
