@@ -26,8 +26,7 @@
 
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png">
-  </br>      Главная страница
-</br> </br> </br>
+</br>Главная страница
 </p>
 
 
