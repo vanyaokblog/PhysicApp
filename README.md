@@ -23,10 +23,13 @@
 
 # Скриншоты приложения:
 
+
 <p align="center">
-![Главная страница](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png)
-</br>      <p align="center">Главная страница
+  <img <img width="400" height="250" src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png">
+  </br>      Главная страница
 </br> </br> </br>
+</p>
+
 
 ![Просмотр темы, выбранной из списка](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png)
 </br> Просмотр темы, выбранной из списка
