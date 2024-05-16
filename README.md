@@ -29,20 +29,22 @@
 </br>Главная страница
 </p>
 
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png">
+</br>Просмотр темы, выбранной из списка
+</p>
 
-![Просмотр темы, выбранной из списка](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png)
-</br> Просмотр темы, выбранной из списка
-</br> </br> </br>
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/AddWin.png">
+</br>Добавление данных
+</p>
 
-![Добавление данных](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/AddWin.png)
-</br> Добавление данных
-</br> </br> </br>
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/OhmsWin.png">
+</br>Калькулятор по закону Ома
+</p>
 
-![Калькулятор по закону Ома](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/OhmsWin.png)
-</br> Калькулятор по закону Ома
-</br> </br> </br>
-
-![Перевод единиц силы тока](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png)
-</br> Перевод единиц силы тока
-</br> </br> </br>
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png">
+</br>Перевод единиц силы тока
 </p>
