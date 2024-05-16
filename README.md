@@ -23,8 +23,9 @@
 
 # Скриншоты приложения:
 
+<p align="center">
 ![Главная страница](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png)
-</br>      <p align="center">Главная страница</p>
+</br>      <p align="center">Главная страница
 </br> </br> </br>
 
 ![Просмотр темы, выбранной из списка](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png)
@@ -42,3 +43,4 @@
 ![Перевод единиц силы тока](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png)
 </br> Перевод единиц силы тока
 </br> </br> </br>
+</p>
