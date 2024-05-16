@@ -24,7 +24,7 @@
 # Скриншоты приложения:
 
 ![Главная страница](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png)
-                  Главная страница
+      Главная страница
 </br> </br> </br>
 
 ![Просмотр темы, выбранной из списка](https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png)
