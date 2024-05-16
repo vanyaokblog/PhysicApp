@@ -27,24 +27,29 @@
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png">
 </br>Главная страница
+</br> </br> </br>
 </p>
 
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png">
 </br>Просмотр темы, выбранной из списка
+</br> </br> </br>
 </p>
 
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/AddWin.png">
 </br>Добавление данных
+</br> </br> </br>
 </p>
 
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/OhmsWin.png">
 </br>Калькулятор по закону Ома
+</br> </br> </br>
 </p>
 
 <p align="center">
   <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png">
 </br>Перевод единиц силы тока
+</br> </br> </br>
 </p>
