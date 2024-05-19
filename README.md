@@ -1,4 +1,4 @@
-# Разработка информационной системы по школьному предмету «Физика».
+# Информационная система по школьному предмету «Физика».
 ### Название приложения: PhysicApp
 ### Описание приложения:
 **Система «PhysicApp» предназначена для обучения и изучения физических тем, включая “Тепловое движение. Температура”, “Внутренняя энергия” и “Способы изменения внутренней энергии тела”. Пользователи могут свободно перемещаться между темами, чтобы изучать интересующие их аспекты физики, а так же добавлять новые материалы.**
@@ -23,6 +23,33 @@
 
 # Скриншоты приложения:
 
-![Главная страница](https://sun9-14.userapi.com/impg/T6Q28K9rUl34SYoSDmBnxgsZj4O6JBdzeSRI7Q/V_4oLVB1w_A.jpg?size=478x407&quality=96&sign=67462a4406399b870e0eab5b4e307110&type=album)
-## Главная страница
+
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/MainWindow.png">
+</br>Главная страница
 </br> </br> </br>
+</p>
+
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/TopicWin.png">
+</br>Просмотр темы, выбранной из списка
+</br> </br> </br>
+</p>
+
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/AddWin.png">
+</br>Добавление данных
+</br> </br> </br>
+</p>
+
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/OhmsWin.png">
+</br>Калькулятор по закону Ома
+</br> </br> </br>
+</p>
+
+<p align="center">
+  <img <img src="https://github.com/vanyaokblog/PhysicApp/blob/main/Screenshots/CurrentConverterWin.png">
+</br>Перевод единиц силы тока
+</br> </br> </br>
+</p>
